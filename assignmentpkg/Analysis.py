@@ -27,8 +27,8 @@ class AnalysisClass():
         
 
     def load_data(self):
-        self.config['data_path']
-        pass
+        print(self.config)
+        
 
     def compute_analysis(self):
         pass
