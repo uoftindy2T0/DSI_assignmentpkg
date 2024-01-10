@@ -27,7 +27,7 @@ class AnalysisClass():
         
 
     def load_data(self):
-        print(self.config)
+        print(self.config['figure_title'])
         
 
     def compute_analysis(self):
