@@ -5,5 +5,5 @@ setup(
     version='0.1.0',
     author='Simeon Wong',
     packages=['assignmentpkg'],
-    requires=['matplotlib', 'pandas']
+    install_requires=['matplotlib', 'pandas']
 )
