@@ -4,10 +4,7 @@ import matplotlib.pyplot as plt
 import yaml
 
 
-class Analysis2Class():
-    pass
-
-class AnalysisClass():
+class Analysis():
     def __init__(self, analysis_config:str):
         CONFIG_PATHS = ['configs/system_config.yml', 'configs/user_config.yml']
 
